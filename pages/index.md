@@ -1,12 +1,17 @@
 ---
 layout: home
-title: Hello world! My name is Karen
+title: Hello world!
 permalink: /
 section: home
 intro_paragraph: >
-  [Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
-  provides the basics to get a fast, static website deployed on Netlify.
-  Features [Netlify CMS](https://www.netlifycms.org), responsive
-  CSS Grid layout, sample
-  pages and posts, and a continuous deployment workflow.
+  Hi, hello, how are you? My name is Karen! This is my portfolio/blog site. 
+  It's a little bare right now, so bear with me? (Please excuse my horrible pun!).
+  If you want to know more about me, feel free to click on any of the links below.
+  Thanks for visiting! :)
+  
+  [Linkedin](https://www.linkedin.com/in/kberba/)
+  [Github](https://github.com/kberba)
+  [Devpost](https://devpost.com/kberba)
+  [Medium](https://medium.com/@scientificnerd)
+  [Instagram](https://www.instagram.com/berbski/)
 ---
