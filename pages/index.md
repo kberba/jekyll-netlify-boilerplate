@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome
+title: Hello world! My name is Karen
 permalink: /
 section: home
 intro_paragraph: >
