@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About
+title: About Me 🌈
 permalink: /about
 section: about
 intro_paragraph: |
-  CS Student
-  | Certified Pharmacy Technician
-  | Photographer
-  | Lifelong learner
+  CS Student 💻
+  | Certified Pharmacy Technician 💊
+  | Creative Photographer 📸
+  | Lifelong learner 💡
 ---
 
-Hello again! You know my name, but who am I exactly?
+Hello again! You know my name, but who am I exactly? 🤔
 
 I'm currently a CS student at Oregon State University, living in Long Beach, CA. My first degree was a BS in Pharmaceutical Sciences from UC Irvine. 
 
@@ -21,13 +21,3 @@ When I’m not scratching my head wondering why valgrind is mad at me again, I�
 If you know of any opportunities or projects that need another person, I'd be happy to collaborate. I have several years of experience working on teams, both in-person and remotely, and I can promise that I will give my best effort in any project that I am a part of. 
 
 ---
-
-### A heading
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
----
-
-#### Another heading
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
