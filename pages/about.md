@@ -5,8 +5,8 @@ permalink: /about
 section: about
 intro_paragraph: |
   CS Student
-  | Former drug maker (only hormones though! Not the fun stuff! ...Just kidding!)
-  | Hobby photographer
+  | Certified Pharmacy Technician
+  | Photographer
   | Lifelong learner
 ---
 
