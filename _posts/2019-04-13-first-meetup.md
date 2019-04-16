@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Code and Coffee Long Beach Meetup 
-author: john_doe
+author: karen_berba
 date: '2019-04-13 10:07:32'
 intro_paragraph: ''
 categories: misc
