@@ -5,9 +5,9 @@ permalink: /about
 section: about
 intro_paragraph: |
   CS Student
-  \Former drug maker (only hormones though! Not the fun stuff! ...Just kidding!)
-  \Hobby photographer
-  \Lifelong learner
+  | Former drug maker (only hormones though! Not the fun stuff! ...Just kidding!)
+  | Hobby photographer
+  | Lifelong learner
 ---
 
 Hello again! You know my name, but who am I exactly?
