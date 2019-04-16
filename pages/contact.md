@@ -5,11 +5,8 @@ permalink: /contact
 section: contact
 intro_paragraph: |-
 
-  The contact form on this page uses
-  [Netlify Forms](https://www.netlify.com/docs/form-handling/) to process
-  submissions, and saves them in your Netlify account where you can optionally
-  set up notifications. Each submission is passed through a spam filter and if
-  flagged, will display a CAPTCHA challenge to the user.
+  If you want to collaborate, have a job for me, or just want to say hi... please leave me a message! :)
+  I promise I get back to you as soon as I can! 
 ---
 
-**Send us a message**
+**Send me a message :)**
