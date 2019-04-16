@@ -1,15 +1,15 @@
 ---
 layout: post
 title: My First Hackathon - AthenaHacks 2019 - OMG WE WON
-author: dan_urbanowicz
+author: karen_berba
 date: 2019-04-07T00:12:57.000Z
 intro_paragraph: ''
 categories: misc
 ---
 
-![Karen under the AthenaHacks banner at USC](/assets/AthenaHacks1.jpg)
-
 ### AthenaHacks? What's that?
+
+![Karen under the AthenaHacks banner at USC](/assets/AthenaHacks1.jpg)
 
 So what is a AthenaHacks? AthenaHacks is an all-female hackathon held at USC (Los Angeles, CA) aimed at narrowing the gender gap in tech. 
 
