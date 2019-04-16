@@ -5,7 +5,7 @@ permalink: /
 section: home
 intro_paragraph: >
   Hi, hello, how are you? My name is Karen! This is my portfolio/blog site. 
-  It's a little bare right now, so bear with me? (Please excuse my horrible pun!).
+  It's a little bare right now, so bear with me? 🐻.
   If you want to know more about me, feel free to click on any of the links below.
   Thanks for visiting! 🙂
   
