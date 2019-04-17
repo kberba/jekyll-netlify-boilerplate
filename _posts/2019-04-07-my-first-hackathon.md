@@ -1,13 +1,13 @@
 ---
 layout: post
-title: My First Hackathon - AthenaHacks 2019 - OMG WE WON
+title: My First Hackathon - AthenaHacks 2019 - OMG WE WON 😲🏆
 author: karen_berba
 date: 2019-04-07T00:12:57.000Z
 intro_paragraph: ''
 categories: misc
 ---
 
-### AthenaHacks? What's that?
+### AthenaHacks? What's that? 🤔
 
 ![Karen under the AthenaHacks banner at USC](/assets/AthenaHacks1.jpg)
 
@@ -23,17 +23,33 @@ Here's their site description:
 
 This was my first hackathon ever, so I didn't really know what to expect! 
 
+We formed our team through Slack a few days prior, but we didn't know each other beforehand. One of us was from Oklahoma, another from the Bay, another from Long Beach, and another an international student attending USC. A lot of different places! Half of us were grad students!
+
+AthenaHacks consisted of an opening ceremony with speakers, food (lunch, dinner, breakfast, and a whole lot of snacks --- boba!!), workshops, industry sponsors' boothing, and.....hours of planning and coding!
+
+#### Check out our Project at Devpost
+
+[https://devpost.com/software/queuet]
+
 ![QueueT Team Assemble](/assets/QueueT-Team-1.jpg)
 
 Us being dorks after finishing up the project demostration expo. :)
 
-#### Check out our Project at Devpost
+### How we built it
+We had two developers who focused on building out the swift portion of the app, one person with a data analytics and database background work on implementing firebase, and one person focused on planning out the UX/UI of the app
 
-https://devpost.com/software/queuet
+### Accomplishments that we are proud of 
+* We came together as a team and created and built a project, even though we didn't know each other beforehand
+* Some of us learned new tools (e.g. firebase) and languages, as well as got out of our comfort zones
 
-### We won Best Use of Google Cloud Platform - Sponsored by MLH
+### What we learned
+* How difficult it is to build a mobile app
+* How complicated the planning portion is of creating a mobile app
+** But how important it is to create concept sketches and prototypes beforehand to factor in best UX practices
 
-Very unexpectedly, we actually won in a category! 
+### We won Best Use of Google Cloud Platform - Sponsored by MLH 🏆
+
+Very unexpectedly, we actually won in a category! 😲😲😲
 
 ![QueueT Team with Google Home Minis](/assets/AthenaHacks-we-won.jpg)
 
