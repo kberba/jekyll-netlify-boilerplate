@@ -45,7 +45,7 @@ We came together as a team and created and built a project, even though we didn'
 
 ### What we learned
 
-1) How difficult it is to build a mobile (seriously!), 2) how complicated the planning portion is of creating a mobile app, 3) but how important it is to create concept sketches/wireframes and prototypes beforehand to factor in best UX practices.
+How difficult it is to build a mobile (seriously!), how complicated the planning portion is of creating a mobile app, but how important it is to create concept sketches/wireframes and prototypes beforehand to factor in best UX practices.
 
 ### We won Best Use of Google Cloud Platform - Sponsored by MLH 🏆
 
