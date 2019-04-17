@@ -41,14 +41,11 @@ We had two developers who focused on building out the swift portion of the app, 
 
 ### Accomplishments that we are proud of 
 
-1.  We came together as a team and created and built a project, even though we didn't know each other beforehand
-2.  Some of us learned new tools (e.g. firebase) and languages, as well as got out of our comfort zones
+We came together as a team and created and built a project, even though we didn't know each other beforehand! And some of us learned new tools (e.g. firebase) and languages, as well as got out of our comfort zones.
 
 ### What we learned
 
-1.  How difficult it is to build a mobile app
-2.  How complicated the planning portion is of creating a mobile app
-    *  But how important it is to create concept sketches and prototypes beforehand to factor in best UX practices
+1) How difficult it is to build a mobile (seriously!), 2) how complicated the planning portion is of creating a mobile app, 3) but how important it is to create concept sketches/wireframes and prototypes beforehand to factor in best UX practices.
 
 ### We won Best Use of Google Cloud Platform - Sponsored by MLH 🏆
 
