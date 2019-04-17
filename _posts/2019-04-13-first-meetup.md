@@ -16,7 +16,7 @@ At first, I was super nervous because I didn't know anyone prior. I kept thinkin
 Thankfully, that wasn't the case! After introductions and a general overview of what CCLB was all about, we all set about to mingle and find out more about what we're interested in and/or working on. 
 
 ![Code and Coffee Long Beach pic](/assets/Code-and-coffee-lb.jpg)
-Look how cute we all are!
+Look at how cute we all are!
 
 #### Shout-outs! 😎
 
@@ -24,7 +24,7 @@ The first friendly face I met was also a first-timer at CCLB -- Pat! He's a web 
 
 I met a UI Designer named Taka who graciously let me ask him tons of questions about his experience as a designer, as well as what resources he used to learn and create his projects. Thank so much for the pdfs!
 
-I also met another person named Jorde that showed me the awesomeness of ThreeJS! It's seriously mind-blowing how amazing ThreeJs is, and what people have come up with through using it! Check it out [here](https://threejs.org/)! Trust me, once you start clicking through all of the projects, you won't stop! Also, if you click on the 'examples' link on the left, you can see preview what each feature does!
+I also met another person named Jorde that showed me the awesomeness of ThreeJS! It's seriously mind-blowing how amazing ThreeJs is, and what people have come up with through using it! Check it out [here](https://threejs.org/)! Trust me, once you start clicking through all of the projects, you won't stop! Also, if you click on the 'examples' link on the left, you can preview what each feature does!
 
 ### Will I go back again?
 
