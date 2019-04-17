@@ -33,21 +33,21 @@ AthenaHacks consisted of an opening ceremony with speakers, food (lunch, dinner,
 
 ![QueueT Team Assemble](/assets/QueueT-Team-1.jpg)
 
-Us being dorks after finishing up the project demostration expo. :)
+Us being dorks after finishing up the project demonstration expo. :)
 
 ### How we built it
 
-We had two developers who focused on building out the swift portion of the app, one person with a data analytics and database background work on implementing firebase, and one person focused on planning out the UX/UI of the app
+We had two developers who focused on building out the swift portion of the app, one person with a data analytics and database background work on implementing firebase, and one person focused on planning out the UX/UI of the app.
 
 ### Accomplishments that we are proud of 
 
--  We came together as a team and created and built a project, even though we didn't know each other beforehand
--  Some of us learned new tools (e.g. firebase) and languages, as well as got out of our comfort zones
+1.  We came together as a team and created and built a project, even though we didn't know each other beforehand
+2.  Some of us learned new tools (e.g. firebase) and languages, as well as got out of our comfort zones
 
 ### What we learned
 
--  How difficult it is to build a mobile app
--  How complicated the planning portion is of creating a mobile app
+1.  How difficult it is to build a mobile app
+2.  How complicated the planning portion is of creating a mobile app
     *  But how important it is to create concept sketches and prototypes beforehand to factor in best UX practices
 
 ### We won Best Use of Google Cloud Platform - Sponsored by MLH 🏆
