@@ -10,8 +10,10 @@ intro_paragraph: >
   Thanks for visiting! 🙂
   
 ---
-[Karen's Resume](https://docs.google.com/document/d/1S8T06itENJwWBaNvSOZuqesPpFaD_w3InXTmlfUPy5k/edit?usp=sharing)
+Social Media Profiles & Resume
 ---
+[Download Karen's Resume](https://docs.google.com/document/d/1S8T06itENJwWBaNvSOZuqesPpFaD_w3InXTmlfUPy5k/edit?usp=sharing)
+
  If you want to know more about me, feel free to click on any of the links below, or check out my About page or Blog (hint, hint)!
   - [Linkedin](https://www.linkedin.com/in/kberba/)
   - [Github](https://github.com/kberba)
