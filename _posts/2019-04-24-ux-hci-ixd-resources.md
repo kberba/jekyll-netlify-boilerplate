@@ -11,13 +11,20 @@ Hi everyone! I just wanted to share some resources I've been using throughout my
 
 ### Resources
 
-#### Books I'm Reading
+#### Books I'm Currently Reading
+✅ The Design of Everyday Things - Don Norman
+✅ Don't Make Me Think - Steve Krug
+✅ About Face 3: The Essentials of Interaction Design - Alan Cooper, Robert Reimann, David Cronin
+
+#### Books On My List 
 
 
 #### Online Courses 
-
+✅ Georgia Tech's Human Computer Interaction Course on Udacity
 
 #### Helpful Websites 
-
+✅ Udacity
+✅ Interaction Design Foundation
+✅ DesignCode.io
 
 #### Discussion Groups / Meetups
