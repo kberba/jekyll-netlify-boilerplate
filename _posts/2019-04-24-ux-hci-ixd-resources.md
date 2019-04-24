@@ -15,12 +15,12 @@ Hi everyone! I just wanted to share some resources I've been using throughout my
 - ✅ The Design of Everyday Things - Don Norman
 - ✅ Don't Make Me Think - Steve Krug
 - ✅ About Face 3: The Essentials of Interaction Design - Alan Cooper, Robert Reimann, David Cronin
-
+-
 
 
 #### 📕 Books On My List 
 - (Will be updated soon!)
-
+-
 
 
 #### 🎒 Online Courses 
@@ -28,7 +28,7 @@ Hi everyone! I just wanted to share some resources I've been using throughout my
 - ✅ Oregon State University's CS 352 Introduction to Usability Engineering
 - ✅ Interaction Design Foundation's Human Computer Interaction Course
 - ✅ Interaction Design Foundation's Interaction Design for Usability
-
+-
 
 
 #### 💻 Helpful Websites 
@@ -36,12 +36,12 @@ Hi everyone! I just wanted to share some resources I've been using throughout my
 - ✅ Udacity
 - ✅ Interaction Design Foundation
 - ✅ DesignCode.io
-
+-
 
 
 #### 🎧 Podcasts 
 - (Will be updated soon!)
-
+-
 
 
 #### 🙋‍♀️ Discussion Groups / Meetups 
