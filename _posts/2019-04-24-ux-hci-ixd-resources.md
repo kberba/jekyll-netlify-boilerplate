@@ -21,10 +21,15 @@ Hi everyone! I just wanted to share some resources I've been using throughout my
 
 #### Online Courses 
 - ✅ Georgia Tech's Human Computer Interaction Course on Udacity
+- ✅ Oregon State University's CS 352 Introduction to Usability Engineering
+- ✅ Interaction Design Foundation's Human Computer Interaction Course
+- ✅ Interaction Design Foundation's Interaction Design for Usability
 
 #### Helpful Websites 
 - ✅ Udacity
 - ✅ Interaction Design Foundation
 - ✅ DesignCode.io
+
+#### Podcasts
 
 #### Discussion Groups / Meetups
