@@ -12,45 +12,37 @@ Hi everyone! I just wanted to share some resources I've been using throughout my
 ### 📎 Resources 
 
 *📚 Books I'm Currently Reading*
-✅ The Design of Everyday Things - Don Norman
-
-✅ Don't Make Me Think - Steve Krug
-
-✅ About Face 3: The Essentials of Interaction Design - Alan Cooper, Robert Reimann, David Cronin
+    ✅ The Design of Everyday Things - Don Norman
+    ✅ Don't Make Me Think - Steve Krug
+    ✅ About Face 3: The Essentials of Interaction Design - Alan Cooper, Robert Reimann, David Cronin
 
 
 
 *📕 Books On My List*
-(Will be updated soon!)
+    (Will be updated soon!)
 
 
 
 *🎒 Online Courses*
-✅ Georgia Tech's Human Computer Interaction Course on Udacity
-
-✅ Oregon State University's CS 352 Introduction to Usability Engineering
-
-✅ Interaction Design Foundation's Human Computer Interaction Course
-
-✅ Interaction Design Foundation's Interaction Design for Usability
+    ✅ Georgia Tech's Human Computer Interaction Course on Udacity
+    ✅ Oregon State University's CS 352 Introduction to Usability Engineering
+    ✅ Interaction Design Foundation's Human Computer Interaction Course
+    ✅ Interaction Design Foundation's Interaction Design for Usability
 
 
 
 *💻 Helpful Websites*
-✅ Nielsen Norman Group
-
-✅ Udacity
-
-✅ Interaction Design Foundation
-
-✅ DesignCode.io
+    ✅ Nielsen Norman Group
+    ✅ Udacity
+    ✅ Interaction Design Foundation
+    ✅ DesignCode.io
 
 
 
 *🎧 Podcasts*
-(Will be updated soon!)
+    (Will be updated soon!)
 
 
 
 *🙋‍♀️ Discussion Groups / Meetups*
-✅ Code and Coffee Long Beach
+    ✅ Code and Coffee Long Beach
