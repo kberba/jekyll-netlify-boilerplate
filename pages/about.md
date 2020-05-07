@@ -5,9 +5,8 @@ permalink: /about
 section: about
 intro_paragraph: |
   CS Student 💻
-  | Certified Pharmacy Technician 💊
-  | Creative Photographer 📸
-  | Lifelong learner 💡
+  | Undergraduate Research Assistant 
+  | Webmaster & Secretary @ OSU Hackathon Club
 ---
 
 Hi, I'm Karen! I'm a non-traditional student studying computer science with a background in pharmacy and pharmaceutical sciences.
