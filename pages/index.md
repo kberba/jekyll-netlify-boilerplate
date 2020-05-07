@@ -14,7 +14,7 @@ Social Media Profiles & Resume
 ---
 [Download Karen's Resume](https://docs.google.com/document/d/1sdZFhna8B0hfLdqhzBJHVJMg_XILxG8Iz0MSVzGBhOQ/edit?usp=sharing)
 
- If you want to know more about me, feel free to click on any of the links below:
+ If you want to know more about me, feel free to click on any of the links below or check out my About page:
  
   - [Linkedin](https://www.linkedin.com/in/kberba/)
   - [Github](https://github.com/kberba)
