@@ -1,7 +1,6 @@
 ---
 layout: home
-title: Hello world! 🌎
-I'm Karen Berba
+title: Hello world! 🌎 I'm Karen Berba
 permalink: /
 section: home
 intro_paragraph: >
