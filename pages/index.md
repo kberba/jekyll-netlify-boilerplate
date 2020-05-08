@@ -4,7 +4,7 @@ title: Hello world! 🌎 I'm Karen Berba
 permalink: /
 section: home
 intro_paragraph: >
-  Hi, hello, how are you? Welcome to my porfolio/blog site! 
+  Welcome to my porfolio/blog site! 
  
   Thanks for visiting! 🙂
   
