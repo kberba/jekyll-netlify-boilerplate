@@ -4,8 +4,7 @@ title: Hello world! 🌎
 permalink: /
 section: home
 intro_paragraph: >
-  Hi, hello, how are you? My name is Karen! This is my portfolio/blog site. 
-  It's a little bare right now, so bear with me? 🐻.
+  Hi, hello, how are you? Welcome to my porfolio/blog site! 
  
   Thanks for visiting! 🙂
   
