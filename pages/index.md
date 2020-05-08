@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Hello world! 🌎
+I'm Karen Berba
 permalink: /
 section: home
 intro_paragraph: >
@@ -9,7 +10,7 @@ intro_paragraph: >
   Thanks for visiting! 🙂
   
 ---
-Social Media Profiles & Resume
+### Social Media Profiles & Resume
 ---
 [Download Karen's Resume](https://docs.google.com/document/d/1sdZFhna8B0hfLdqhzBJHVJMg_XILxG8Iz0MSVzGBhOQ/edit?usp=sharing)
 
