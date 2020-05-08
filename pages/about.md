@@ -15,20 +15,24 @@ My skills include: being able to work on and lead teams (remote and in-person), 
 
 Outside of school, I'm working on exploring web development, HCI, UX design, and IoT (Arduino and Raspberry Pi).
 
+---
 
 ### Classes I'm currently taking:
 * Operating Systems
 * Software Engineering II
 
+---
 
 ### Research Group:
 * [EPICLab @ Oregon State University](https://epiclab.github.io/)
 
+---
 
 ### Hackathon Participation:
 * AthenaHacks 2019 - Role: UX/UI Designer
 * OSU Hackathon Summer 2019 - Role: Software Developer
 
+---
 
 ### Clubs:
 * [OSU Hackathon Club Webmaster / Secretary](https://osu-hackathon-club.netlify.app/)
