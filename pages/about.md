@@ -6,7 +6,7 @@ section: about
 intro_paragraph: |
   CS Student 💻
   | Undergraduate Research Assistant 
-  | Webmaster & Secretary @ OSU Hackathon Club
+  | President & Webmaster @ OSU Hackathon Club
 ---
 
 Hi, I'm Karen! I'm a non-traditional student studying computer science with a background in pharmacy and pharmaceutical sciences.
@@ -19,22 +19,30 @@ Outside of school, I'm working on exploring web development, HCI, UX design, and
 
 ### Classes I'm currently taking:
 * Operating Systems
-* Software Engineering II
+* Computer Networks
 
 ---
 
 ### Research Group:
 * [EPICLab @ Oregon State University](https://epiclab.github.io/)
+* SIM Lab @ Oregon State University
 
 ---
 
 ### Hackathon Participation:
+Hackathon Participation:
+[2019]
 * AthenaHacks 2019 - Role: UX/UI Designer
-* OSU Hackathon Summer 2019 - Role: Software Developer
+* BeaverHacks Summer 2019 - Role: Software Developer (Web development)
+[2020]
+* BeaverHacks Summer 2020 - Role: Hackathon Organizer
+* BeaverHacks Fall 2020 - Role: Hackathon Organizer
+* Black Lives Matter Hackathon 2020 - Role: Software Developer (Flutter development - Android)
+* BeaverHacks Winter 2021 - Role: Hackathon Organizer
 
 ---
 
 ### Clubs:
-* [OSU Hackathon Club Webmaster / Secretary](https://osu-hackathon-club.netlify.app/)
+* [OSU Hackathon Club President & Webmaster](https://osu-hackathon-club.netlify.app/)
 
 ---
